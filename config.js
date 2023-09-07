@@ -13,7 +13,7 @@ global.gurl = 'https://instagram.com/adk_richu_' // add your username
 global.sudo = process.env.SUDO || '916282122603'
 global.devs = '916282122603';
 global.website = 'https://youtube.com/@adkrichu' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.ibb.co/CKSbNcL/3d759ac8c859.jpg'
 module.exports = {
   botname:   process.env.BOT_NAME === undefined ? '© ᴀᴅᴋ ʀᴉᴄⲏᴜ ᴘᴜʙᴌᴉᴄ ʙᴏᴛ' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? '© ī.am ᴀᴅᴋ_ʀᴉᴄʜᴜ' : process.env.OWNER_NAME,
