@@ -1,13 +1,13 @@
   <p align="center">  
   <a href="https://secktoruserbot.onrender.com/">
-    <img alt="secktor docs" height="300" src="https://i.ibb.co/CKSbNcL/3d759ac8c859.jpg">
+    <img alt="secktor docs" height="300" src="https://telegra.ph/file/42d9cf926fb1eb8d10255.jpg">
     <h1 align="center">Secktor MD Whatsapp bot</h1>
   </a>
 </p>
    
 <p align="center">
 
-  <a aria-label="Join our chats" href="https://youtube.com/@adkrichu" target="_blank">
+  <a aria-label="Join our chats" href="https://www.youtube.com/@ADK_RICHU" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
  
